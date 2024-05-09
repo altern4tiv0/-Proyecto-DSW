@@ -1,0 +1,95 @@
+﻿@model IEnumerable<PrjEcommersProyect.Models.Producto>
+@{
+    ViewData["Title"] = "ListaProductos";
+}
+
+<link href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+
+<!------ Include the above in your HEAD tag ---------->
+
+
+<div class="banner">
+
+    <img src="~/Productos/banner.jpg"
+         style="height:40vh; width:127vh; border-radius:20px;" />
+</div>
+<br />
+<div class="container">
+    <div class="row">
+        <!-- Sidebar for categories -->
+        <div class="col-12 col-sm-3">
+            <div class="card bg-light mb-3">
+                <div class="card-header bg-primary text-white text-uppercase">
+                    <i class="fa fa-list"></i> Categories
+                </div>
+                <ul class="list-group category_block">
+                    <!-- Opción para mostrar todos los productos -->
+                    <li class="list-group-item">
+                        <a asp-action="ListaProductos" asp-route-idCategoria="" asp-route-nropagina="0">
+                            Todos
+                        </a>
+                    </li>
+                    @foreach (var categoria in ViewBag.Categorias as List<Categoria>)
+                    {
+                        <li class="list-group-item">
+                            <a asp-action="ListaProductos" asp-route-idCategoria="@categoria.IdCategoria" asp-route-nropagina="0">
+                                @categoria.NombreCategoria
+                            </a>
+                        </li>
+                    }
+                </ul>
+            </div>
+        </div>
+
+
+        <!-- Main content area for products -->
+        <div class="col">
+            <div class="row">
+                @foreach (var item in Model)
+                {
+                    <div class="col-12 col-md-6 col-lg-4">
+                        <div class="card">
+                            <img class="card-img-top" src="@Url.Content("/Productos/" + item.IdProducto + ".jpg")" alt="@item.IdProducto" style="width:220px;height:220px;">
+                            <div class="card-body">
+                                <h6 class="card-title"><p>@Html.DisplayFor(modelItem => item.NombreProducto)</p></h6>
+                                <div class="row">
+                                    <div class="col">
+                                        <p>@Html.DisplayFor(modelItem => item.Precio)</p>
+                                        <span style="padding:5px; border-radius:10px; font-size:10px; background-color:#CFDCF3;color:#004085">
+                                            Envio Gratis
+                                        </span>
+                                    </div>
+                                    <div>
+                                        <br />
+                                        <p>
+                                            @Html.ActionLink("Ver Producto", "AgregarCarrito", new { id = item.IdProducto }, new { @class = "btn btn-success" })
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <br />
+                    </div>
+                }
+
+                <!-- Pagination links -->
+                <div>
+                    <br />
+                    @for (int i = 0; i < ViewBag.PAGINAS; i++)
+                    {
+                        <a asp-action="ListaProductos" asp-route-nropagina="@i" asp-route-idCategoria="@ViewBag.IdCategoria" class=@(i == (int)ViewBag.nropagina ? "btn btn-warning" : "btn btn-primary")>
+                            @(i + 1)
+                        </a>
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<br />
+<br />
+<br />

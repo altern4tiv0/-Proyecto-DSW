@@ -1,0 +1,74 @@
+﻿
+@{
+    ViewData["Title"] = "ValidarIngreso";
+}
+<h1 class="text-white">ValidarIngreso</h1>
+
+<body class="bg-white">
+    <center>
+        <h1>BIENVENIDO A TIENDA CIBERTEC</h1>
+        <br />
+        <p class="blockquote-footer">Inicia Sesion para continuar</p>
+    </center>
+    
+    <section class="vh-100">
+        <div class="container-fluid h-custom">
+            <div class="row d-flex justify-content-center align-items-center h-100">
+                <div class="col-md-9 col-lg-6 col-xl-7">
+                    <img src="/Logo/PerifericosLogo.jpg"
+                         class="img-fluid" alt="Sample image">
+                </div>
+                <div class="col-md-8 col-lg-6 col-xl-4 offset-xl-1 shadow p-3 mb-5 bg-body-tertiary rounded">
+                    <form asp-action="ValidarIngreso" method="post">
+
+                        <!-- USUARIO -->
+                        <div data-mdb-input-init class="form-outline mb-4">
+                            <label class="form-label" for="form3Example3">Usuario</label>
+
+                            <input type="text" name="LoginUsu" class="form-control form-control-lg"
+                                   placeholder="Ingresa Usuario" />
+                        </div>
+
+                        <!-- CONTRASEÑA -->
+                        <div data-mdb-input-init class="form-outline mb-3">
+                            <label class="form-label" for="form3Example4">Contraseña</label>
+
+                            <input type="password" name="ClaveUsu" class="form-control form-control-lg"
+                                   placeholder="Ingresa contraseña" />
+                        </div>
+
+
+                        <!--BOTON-->
+                        <div class="text-center text-lg-start mt-4 pt-2">
+                            <button type="submit" data-mdb-button-init data-mdb-ripple-init class="btn btn-dark btn-lg"
+                                    style="padding-left: 2.5rem; padding-right: 2.5rem;">
+                                Aceptar
+                            </button>
+
+                        </div>
+
+                        
+
+                        <div class="text-center text-lg-start mt-4 pt-2">
+                            <p>
+                                No tengo cuenta <a asp-action="CreateUsuario">Crear usuario</a>
+                            </p>
+                        </div>
+                        
+
+                    </form>
+                </div>
+                <div class="alert alert-danger alert-dismissible fade show role="alert">
+                    @ViewBag.mensaje
+                </div>
+            </div>
+            
+        </div>
+
+        
+    </section>
+
+
+
+</body>
+

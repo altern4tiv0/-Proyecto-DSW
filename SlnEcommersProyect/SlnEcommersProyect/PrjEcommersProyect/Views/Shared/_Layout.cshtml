@@ -1,0 +1,93 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - PrjEcommersProyect</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/PrjEcommersProyect.styles.css" asp-append-version="true" />
+    <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div class="container-fluid">
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">PrjEcommersProyect</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+                        
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area=""
+                            asp-controller="Producto"
+                               asp-action="ListaProductos">Lista Producto</a>
+                        </li>
+                    </ul>
+                    <ul class="nav justify-content-end" style="padding-right:20px;">
+                        <li class ="nav-item d-flex">
+                            <form class="form-inline my-2 my-lg-0">
+                                <a class="btn btn-success btn-sm ml-3" asp-area=""
+                                   asp-controller="Producto"
+                                   asp-action="VerCarritoCompra">
+                                    <i class="fa fa-shopping-cart"></i> Ver Carrito
+                                    <span class="badge badge-light">@await Component.InvokeAsync("CartCounter")</span>
+                                </a>
+                            </form>
+                        </li>
+                    </ul>
+
+                    <ul class="nav justify-content-end">
+                        <li class="nav-item d-flex">
+                            <a class="nav-link btn btn-secondary" asp-area=""
+                               asp-controller="Usuario"
+                               asp-action="ValidarIngreso">Iniciar Sesion</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="footer-bs  p-3  bg-secondary text-white">
+        <div class="row">
+            <div class="col-md-3 footer-brand animated fadeInLeft">
+                <h2>Logo</h2>
+                <p>Suspendisse hendrerit tellus laoreet luctus pharetra. Aliquam porttitor vitae orci nec ultricies. Curabitur vehicula, libero eget faucibus faucibus, purus erat eleifend enim, porta pellentesque ex mi ut sem.</p>
+                <p>© 2014 BS3 UI Kit, All rights reserved</p>
+            </div>
+            <div class="col-md-4 footer-nav animated fadeInUp">
+                <h4>Integrantes</h4>
+   
+                <div class="col-md-6">
+                    <ul class="list">
+                        <li><a class="text-light" href="#">Pedro Sirvas Rueda</a></li>
+                        <li><a class="text-light" href="#">Diego Morales Rojas</a></li>
+                        <li><a class="text-light" href="#">Junior Noa Vera</a></li>
+                        <li><a class="text-light" href="#">lesly carrasco salazar</a></li>
+                    </ul>
+                </div>
+            </div>
+            
+           
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

@@ -1,0 +1,74 @@
+﻿@model IEnumerable<PrjEcommersProyect.Models.Carrito>
+
+@{
+    ViewData["Title"] = "VerCarritoCompra";
+}
+
+<h1>VerCarritoCompra</h1>
+
+
+<p>
+    <a asp-action="ListaProductos" class="btn btn-warning">Seguir Comprando</a>
+</p>
+<table class="table table-striped">
+    <thead class="table-dark">
+        <tr>
+            <th>
+                Imagen
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Nombre)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Precio)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Cantidad)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Importe)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    <img src="@Url.Content("/Productos/" + item.Codigo + ".jpg")"
+                         alt="@item.Codigo"
+                         style="width:80px;height:80px;" />
+                </td>
+                <td>@Html.DisplayFor(modelItem => item.Nombre)</td>
+                <td>@Html.DisplayFor(modelItem => item.Precio)</td>
+                <td>@Html.DisplayFor(modelItem => item.Cantidad)</td>
+                <td>@Html.DisplayFor(modelItem => item.Importe)</td>
+                <td>
+                    <form asp-action="EliminarArticuloCarrito" asp-route-id="@item.Codigo"
+                          method="post">
+                        @Html.ActionLink("Modificar", "AgregarCarrito",
+                                 new { id = item.Codigo }, new { @class = "btn btn-success" }) |
+                        @Html.ActionLink("Eliminar", "EliminarArticuloCarrito",
+                                 new { id = item.Codigo }, new { @class = "btn btn-danger" })
+                    </form>
+                </td>
+            </tr>
+        }
+        <tr>
+            <td colspan="4">Total a Pagar:</td>
+            <td><strong>@ViewBag.suma_importes</strong></td>
+        </tr>
+
+    </tbody>
+</table>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />

@@ -1,0 +1,473 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\PrjEcommersProyect.bundle.scp.css",
+      "PackagePath": "staticwebassets\\PrjEcommersProyect.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\Logo\\PerifericosLogo.jpg",
+      "PackagePath": "staticwebassets\\Logo\\PerifericosLogo.jpg"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\Productos\\A001.jpg",
+      "PackagePath": "staticwebassets\\Productos\\A001.jpg"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\Productos\\A002.jpg",
+      "PackagePath": "staticwebassets\\Productos\\A002.jpg"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\Productos\\A003.jpg",
+      "PackagePath": "staticwebassets\\Productos\\A003.jpg"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\Productos\\A004.jpg",
+      "PackagePath": "staticwebassets\\Productos\\A004.jpg"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\Productos\\A005.jpg",
+      "PackagePath": "staticwebassets\\Productos\\A005.jpg"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\Productos\\A006.jpg",
+      "PackagePath": "staticwebassets\\Productos\\A006.jpg"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\Productos\\A007.jpg",
+      "PackagePath": "staticwebassets\\Productos\\A007.jpg"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\Productos\\A008.jpg",
+      "PackagePath": "staticwebassets\\Productos\\A008.jpg"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\Productos\\A009.jpg",
+      "PackagePath": "staticwebassets\\Productos\\A009.jpg"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\Productos\\A010.jpg",
+      "PackagePath": "staticwebassets\\Productos\\A010.jpg"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\Productos\\A011.jpg",
+      "PackagePath": "staticwebassets\\Productos\\A011.jpg"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\Productos\\A012.jpg",
+      "PackagePath": "staticwebassets\\Productos\\A012.jpg"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\Productos\\A013.jpg",
+      "PackagePath": "staticwebassets\\Productos\\A013.jpg"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\Productos\\A014.jpg",
+      "PackagePath": "staticwebassets\\Productos\\A014.jpg"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\Productos\\A015.jpg",
+      "PackagePath": "staticwebassets\\Productos\\A015.jpg"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\Productos\\A016.jpg",
+      "PackagePath": "staticwebassets\\Productos\\A016.jpg"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\Productos\\A017.jpg",
+      "PackagePath": "staticwebassets\\Productos\\A017.jpg"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\Productos\\A018.jpg",
+      "PackagePath": "staticwebassets\\Productos\\A018.jpg"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\Productos\\A019.jpg",
+      "PackagePath": "staticwebassets\\Productos\\A019.jpg"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\Productos\\A020.jpg",
+      "PackagePath": "staticwebassets\\Productos\\A020.jpg"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\Productos\\A021.jpg",
+      "PackagePath": "staticwebassets\\Productos\\A021.jpg"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\Productos\\A022.jpg",
+      "PackagePath": "staticwebassets\\Productos\\A022.jpg"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\Productos\\A023.jpg",
+      "PackagePath": "staticwebassets\\Productos\\A023.jpg"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\Productos\\A024.jpg",
+      "PackagePath": "staticwebassets\\Productos\\A024.jpg"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\Productos\\A025.jpg",
+      "PackagePath": "staticwebassets\\Productos\\A025.jpg"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\Productos\\A026.jpg",
+      "PackagePath": "staticwebassets\\Productos\\A026.jpg"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\Productos\\A027.jpg",
+      "PackagePath": "staticwebassets\\Productos\\A027.jpg"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\Productos\\A028.jpg",
+      "PackagePath": "staticwebassets\\Productos\\A028.jpg"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\Productos\\A029.jpg",
+      "PackagePath": "staticwebassets\\Productos\\A029.jpg"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\Productos\\A030.jpg",
+      "PackagePath": "staticwebassets\\Productos\\A030.jpg"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\Productos\\A031.jpg",
+      "PackagePath": "staticwebassets\\Productos\\A031.jpg"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\Productos\\A032.jpg",
+      "PackagePath": "staticwebassets\\Productos\\A032.jpg"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\Productos\\A033.jpg",
+      "PackagePath": "staticwebassets\\Productos\\A033.jpg"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\Productos\\A034.jpg",
+      "PackagePath": "staticwebassets\\Productos\\A034.jpg"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\Productos\\A035.jpg",
+      "PackagePath": "staticwebassets\\Productos\\A035.jpg"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\Productos\\A036.jpg",
+      "PackagePath": "staticwebassets\\Productos\\A036.jpg"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\Productos\\A037.jpg",
+      "PackagePath": "staticwebassets\\Productos\\A037.jpg"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\Productos\\A038.jpg",
+      "PackagePath": "staticwebassets\\Productos\\A038.jpg"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\Productos\\A039.jpg",
+      "PackagePath": "staticwebassets\\Productos\\A039.jpg"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\Productos\\A040.jpg",
+      "PackagePath": "staticwebassets\\Productos\\A040.jpg"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\Productos\\A041.jpg",
+      "PackagePath": "staticwebassets\\Productos\\A041.jpg"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\Productos\\A042.jpg",
+      "PackagePath": "staticwebassets\\Productos\\A042.jpg"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\Productos\\A043.jpg",
+      "PackagePath": "staticwebassets\\Productos\\A043.jpg"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\Productos\\A044.jpg",
+      "PackagePath": "staticwebassets\\Productos\\A044.jpg"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\Productos\\A045.jpg",
+      "PackagePath": "staticwebassets\\Productos\\A045.jpg"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\Productos\\A046.jpg",
+      "PackagePath": "staticwebassets\\Productos\\A046.jpg"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\Productos\\A047.jpg",
+      "PackagePath": "staticwebassets\\Productos\\A047.jpg"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\Productos\\A048.jpg",
+      "PackagePath": "staticwebassets\\Productos\\A048.jpg"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\Productos\\A049.jpg",
+      "PackagePath": "staticwebassets\\Productos\\A049.jpg"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\Productos\\banner.jpg",
+      "PackagePath": "staticwebassets\\Productos\\banner.jpg"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\js\\catidad.js",
+      "PackagePath": "staticwebassets\\js\\catidad.js"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\CICLO IV\\Desarrolo de Servicios Web\\Proyecto-Junior Noa Vera\\SlnEcommersProyect\\SlnEcommersProyect\\SlnEcommersProyect\\PrjEcommersProyect\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.PrjEcommersProyect.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.PrjEcommersProyect.props",
+      "PackagePath": "build\\PrjEcommersProyect.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.PrjEcommersProyect.props",
+      "PackagePath": "buildMultiTargeting\\PrjEcommersProyect.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.PrjEcommersProyect.props",
+      "PackagePath": "buildTransitive\\PrjEcommersProyect.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

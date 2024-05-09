@@ -1,0 +1,83 @@
+﻿@model PrjEcommersProyect.Models.Usuario
+
+@{
+    ViewData["Title"] = "CreateUsuario";
+}
+
+<h1>Registrate</h1>
+
+<h4>Es rapido y facil</h4>
+<hr />
+<div class="">
+    <div class="shadow p-3 mb-5 bg-body-tertiary rounded">
+        <form asp-action="CreateUsuario">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="row">
+                <div class="col mb-3 form-group">
+                    <label class="form-label">Nombre</label><br />
+                    <input type="text" class="form-control" />
+                </div>
+
+                <div class="col mb-3 form-group">
+                    <label class="form-label">Apellido</label><br />
+                    <input type="text" class="form-control" />
+                </div>
+            </div>
+            
+
+            <!--USUARIO-->
+            <div class="form-group">
+                <label asp-for="LoginUsu" class="control-label"></label>
+                <input asp-for="LoginUsu" class="form-control" />
+                <span asp-validation-for="LoginUsu" class="text-danger"></span>
+            </div>
+            <!--CLAVE-->
+            <div class="form-group">
+                <label asp-for="ClaveUsu" class="control-label"></label>
+                <input asp-for="ClaveUsu" class="form-control" />
+                <span asp-validation-for="ClaveUsu" class="text-danger"></span>
+            </div>
+
+            <!--GENERO-->
+            <label class="form-label">Genero</label><br />
+            <div class="form-check form-check-inline">
+                <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio1" value="option1">
+                <label class="form-check-label" for="inlineRadio1">Hombre</label>
+            </div>
+            <div class="form-check form-check-inline">
+                <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio2" value="option2">
+                <label class="form-check-label" for="inlineRadio2">Mujer</label>
+            </div>
+            <div class="form-check form-check-inline">
+                <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio3" value="option3">
+                <label class="form-check-label" for="inlineRadio3">Personalizado</label>
+            </div>
+            <br /><bR />
+            <!--BOTONES-->
+            <p class="blockquote-footer">Al hacer clic en Registrarte, aceptas las Condiciones, la Politica de privacidad y la Politica de cookies</p>
+            <center>
+                <div class="form-group">
+                    <input type="submit" value="Registrarte" class="btn btn-primary" />
+                    <a asp-area=""
+                       asp-controller="Usuario"
+                       asp-action="validarIngreso" class="btn btn-danger">Cancelar</a>
+                </div>
+            </center>
+
+            
+
+            
+
+            
+        </form>
+    </div>
+</div>
+<br />
+<div>
+    @ViewBag.mensaje
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
